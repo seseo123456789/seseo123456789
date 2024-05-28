@@ -17,8 +17,27 @@
   </tr>
 </table>
 
-<div>
-  
+<!--내용 부분-->
+<h3 align="left">✨ Tech Stack ✨</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/intellijidea-DB7093?style=for-the-badge&logo=intellijidea&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/react-512BD4.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/visualstudiocode-FFDF6F.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />&nbsp
 </div>
   
 
