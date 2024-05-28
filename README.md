@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td> <img src="https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+to+Jiwoo's+GitHub🌱&font=Redressed&size=30)](https://git.io/typing-svg"/> </td>
+    <td> <img src="https://readme-typing-svg.herokuapp.com/?color=49B48A&lines=Welcome+to+Jiwoo's+GitHub🌱&font=Redressed&size=28)](https://git.io/typing-svg"/> </td>
     <td rowspan="2">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seseo123456789&hide_progress=false&theme=tokyonight&show_icons=true"/> </td>
   </tr>
   <tr>
