@@ -4,14 +4,27 @@
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+<!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=seseo123456789&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seseo123456789&hide_progress=false&theme=tokyonight&show_icons=true" />
-</a>
+
+<table>
+  <tr>
+    <td> <img src="https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg"/> </td>
+    <td rowspan="2">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seseo123456789&hide_progress=false&theme=tokyonight&show_icons=true"/> </td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=seseo123456789&theme=tokyonight&show_icons=true" width="100%"/> </td>
+  </tr>
+</table>
+
+<div>
+  
+</div>
+  
+
+
+ 
+
 
 
 
